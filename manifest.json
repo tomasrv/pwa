@@ -1,0 +1,18 @@
+{
+	"name":"Tecnológico Nacional de México",
+	"short-name": "TecNM",
+	"description": "Aplicación del Tecnológico Nacional de México",
+	"background_color":"#FFF",
+	"theme-color": "#3333FF",
+	"orientation": "portrait", 
+	"display": "standalone",
+	"start_url": "./index.html?utm_source=web_app_manifest",
+	"scope": "./",
+	"lang":"es-MX",
+	"icons":[
+		{
+			"src" :"img/faviconTecNM.png",
+			"sizes": "575x575",
+			"type": "image/png"
+		}]
+}
